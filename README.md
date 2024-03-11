@@ -1,6 +1,7 @@
 # Hello, I'm Karabo!
 <a href="https://www.linkedin.com/in/karabo-dimapo-722411193/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-
+</br>
+<img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Karabo.png" width="300" />
 
 I am an IT Engineering graduate with an interest in cybersecurity.
 
