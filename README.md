@@ -23,11 +23,25 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
+## Operating Systems
+<div>
+    <img src="https://img.shields.io/badge/-Windows-0078D6?&style=for-the-badge&logo=Windows&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
+</div>
+### Hypervisors I Use
+<div>
+    <img src="https://img.shields.io/badge/-Hyper--V-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirtualBox-183A61?&style=for-the-badge&logo=VirtualBox&logoColor=white" />
+</div>
+
+
 ## Tools I use
 <!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 ### Network
 <div>
+    <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-29A1C4?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
     <img src="https://img.shields.io/badge/-tcpdump-4CB749?&style=for-the-badge&logo=linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-nmap-4CB749?&style=for-the-badge&logo=linux&logoColor=white" />
@@ -44,8 +58,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
     <img src="https://img.shields.io/badge/-Burp%20Suite-1679A7?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
     <img src="https://img.shields.io/badge/-OWASP%20ZAP-1679A7?&style=for-the-badge&logo=OWASP&logoColor=white" />
+</div>
 
-    <img src="https://img.shields.io/badge/-VirusTotal-1679A7?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+### Scripting
+<div>
+    <img src="https://img.shields.io/badge/-PowerShell-5391FE?&style=for-the-badge&logo=PowerShell&logoColor=white" />
 </div>
 
 
@@ -75,9 +92,11 @@ My journey in Information Technology has led me to develop a passion for cyberse
 ### Programming Languages
 A list of languages I've learned and or learning!
 <div>
-    <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
-    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
-    <!-- <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-MySQL-4479A1?&style=for-the-badge&logo=MySQL&logoColor=white" />
+    <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?&style=for-the-badge&logo=JavaScript&logoColor=black" />
+    <img src="https://img.shields.io/badge/-CSS3-1572B6?&style=for-the-badge&logo=CSS3&logoColor=white" />
+    <img src="https://img.shields.io/badge/-HTML5-E34F26?&style=for-the-badge&logo=HTML5&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Python-3776AB?&style=for-the-badge&logo=Python&logoColor=white" />
 </div>
 
 ## Projects
