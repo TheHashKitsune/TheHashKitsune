@@ -29,6 +29,7 @@ My journey in Information Technology has led me to develop a passion for cyberse
     <img src="https://img.shields.io/badge/-Kali%20Linux-557C94?&style=for-the-badge&logo=Kali-Linux&logoColor=white" />
     <img src="https://img.shields.io/badge/-Ubuntu-E95420?&style=for-the-badge&logo=Ubuntu&logoColor=white" />
 </div>
+
 ### Hypervisors I Use
 <div>
     <img src="https://img.shields.io/badge/-Hyper--V-003366?&style=for-the-badge&logo=Microsoft&logoColor=white" />
