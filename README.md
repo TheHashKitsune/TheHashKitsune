@@ -44,8 +44,9 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <div>
     <img src="https://img.shields.io/badge/-Cisco%20Packet%20Tracer-29A1C4?&style=for-the-badge&logo=Cisco&logoColor=white" />
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
-    <img src="https://img.shields.io/badge/-TCPDump-FF69B4?&style=for-the-badge&logo=TCPDump&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Nmap-4169E1?&style=for-the-badge&logo=Nmap&logoColor=white" />
+    <img src="https://img.shields.io/badge/-TCPDump-FF69B4?&style=for-the-badge&logo=TCPDump&logoColor=white&logoWidth=40" />
+    <img src="https://img.shields.io/badge/-Nmap-4169E1?&style=for-the-badge&logo=Nmap&logoColor=white&logoWidth=40" />
+
 </div>
 
 ### Malware Analysis
