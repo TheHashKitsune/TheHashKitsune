@@ -1,14 +1,15 @@
 # Hello, I'm Karabo!
-<a href="https://www.linkedin.com/in/karabo-dimapo-722411193/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+<a href="https://www.linkedin.com/in/karabo-dimapo/"><img src="https://img.shields.io/badge/-LinkedIn-0072b1?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </br>
 <img src="https://cyberdefenders-storage.s3.me-central-1.amazonaws.com/profile-badges/Karabo.png" width="300" />
 
-I am an IT Engineering graduate with an interest in cybersecurity.
+Welcome to my GitHub profile! I'm Karabo, an aspiring SOC Analyst with a passion for technology and a relentless drive to learn
+My educational background, coupled with hands-on experience gained through various projects and coursework, has equipped me with a solid foundation in IT fundamentals, including system administration, software development, cybersecurity and troubleshooting. I am particularly interested in network security, and would love to become a network architect and engineer with exceptional skill of keeping a network secure using my expertise in cybersecurity.
 
 ## Objective
 <!-- [Provide Objective - Remove this afterwards]] -->
 
-My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst.
+My journey in Information Technology has led me to develop a passion for cybersecurity, and I am now eager to transition into this field, specifically aiming to join a Security Operations Center (SOC) as a Tier 1 Analyst. My aim is to showcase my skills, projects, and contributions, while also demonstrating my passion for learning and commitment to personal and professional growth.
 
 <!-- ## Skills
 [Provide skills and associated project. Make sure to hyperlink the project - Remove this afterwards]]
