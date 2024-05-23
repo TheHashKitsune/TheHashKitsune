@@ -49,15 +49,15 @@ My journey in Information Technology has led me to develop a passion for cyberse
 
 ### Malware Analysis
 <div>
-    <img src="https://img.shields.io/badge/-REMnux-1679A7?&style=for-the-badge&logo=Linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/-VirusTotal-1679A7?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+    <img src="https://img.shields.io/badge/-REMnux-FFD700?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-800080?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
 </div>
 
 ### Penetration Testing
 <div>
-    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Burp%20Suite-1679A7?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
-    <img src="https://img.shields.io/badge/-OWASP%20ZAP-1679A7?&style=for-the-badge&logo=OWASP&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Metasploit-1E90FF?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-FF4500?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-32CD32?&style=for-the-badge&logo=OWASP&logoColor=white" />
 </div>
 
 ### Scripting
