@@ -23,18 +23,36 @@ My journey in Information Technology has led me to develop a passion for cyberse
 | Case Management with TheHive                  | SOC Automation Lab|
 | Scripting and Automation for Threat Mitigation | SOC Automation Lab| -->
 
-## Tools
+## Tools I use
 <!-- [Provide tools and break them down into categories. Use ChatGPT to help create the link - Remove this afterwards]] -->
 
 ### Network
 <div>
     <img src="https://img.shields.io/badge/-Wireshark-1679A7?&style=for-the-badge&logo=Wireshark&logoColor=white" />
+    <img src="https://img.shields.io/badge/-tcpdump-4CB749?&style=for-the-badge&logo=linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-nmap-4CB749?&style=for-the-badge&logo=linux&logoColor=white" />
 </div>
+
+### Malware Analysis
+<div>
+    <img src="https://img.shields.io/badge/-REMnux-1679A7?&style=for-the-badge&logo=Linux&logoColor=white" />
+    <img src="https://img.shields.io/badge/-VirusTotal-1679A7?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+</div>
+
+### Penetration Testing
+<div>
+    <img src="https://img.shields.io/badge/-Metasploit-1679A7?&style=for-the-badge&logo=Metasploit&logoColor=white" />
+    <img src="https://img.shields.io/badge/-Burp%20Suite-1679A7?&style=for-the-badge&logo=Burp-Suite&logoColor=white" />
+    <img src="https://img.shields.io/badge/-OWASP%20ZAP-1679A7?&style=for-the-badge&logo=OWASP&logoColor=white" />
+
+    <img src="https://img.shields.io/badge/-VirusTotal-1679A7?&style=for-the-badge&logo=VirusTotal&logoColor=white" />
+</div>
+
 
 ### Endpoint
 <div>
     <img src="https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00A4EF?&style=for-the-badge&logo=Microsoft&logoColor=white" />
-    <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/-Velociraptor-4B275F?&style=for-the-badge&logo=Velociraptor&logoColor=white" /> -->
 </div>
 
 ### SIEM
@@ -54,5 +72,14 @@ My journey in Information Technology has led me to develop a passion for cyberse
 <img src="https://img.shields.io/badge/-Azure Data Fundamentals-0078D4?&style=for-the-badge&logo=microsoft&logoColor=white" />
 </div>
 
+### Programming Languages
+A list of languages I've learned and or learning!
+<div>
+    <!-- <img src="https://img.shields.io/badge/-Microsoft_Sentinel-0078D4?&style=for-the-badge&logo=Microsoft&logoColor=white" /> -->
+    <img src="https://img.shields.io/badge/-Splunk-000000?&style=for-the-badge&logo=Splunk&logoColor=white" />
+    <!-- <img src="https://img.shields.io/badge/-Elastic-005571?&style=for-the-badge&logo=Elastic&logoColor=white" /> -->
+</div>
+
 ## Projects
+Still a work in progress, I will be adding all my projects here, once I can properly document all of them!
 - <a href= "https://github.com/TheHashKitsune/JobListingWebsite/tree/main"> Job Listing Website </a>
